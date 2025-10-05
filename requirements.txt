@@ -1,0 +1,31 @@
+# Core dependencies for Space Biology Chatbot
+python-dotenv
+groq
+pinecone
+
+# FastAPI and web server dependencies
+fastapi
+uvicorn[standard]
+pydantic
+
+# PyTorch CPU-only version for Windows compatibility
+--index-url https://download.pytorch.org/whl/cpu
+torch
+transformers
+
+# Sentence transformers and ML dependencies
+sentence-transformers
+numpy
+requests
+
+# Additional ML dependencies that may be needed
+scikit-learn
+huggingface-hub
+
+# Knowledge Graph dependencies
+neo4j
+networkx
+langchain
+langchain-text-splitters
+pandas
+pyvis

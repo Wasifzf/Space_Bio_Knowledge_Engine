@@ -1,0 +1,101 @@
+{
+  "export_info": {
+    "created": "2025-10-05T09:32:35.291097",
+    "source": "pinecone_abstracts",
+    "total_triples": 6,
+    "original_triples": 6,
+    "papers_processed": 6
+  },
+  "filtered_triples": [
+    {
+      "subject": "Klebsiella",
+      "predicate": "inhabits",
+      "object": "Gastrointestinal Tract",
+      "confidence": 0.9,
+      "source_text": "The genus Klebsiella was discovered by Carl Friedlander in 1882 from the lungs of patients who had died of pneumonia (1). In infected individuals, Klebsiella species can populate the gastrointestinal ...",
+      "paper_id": "536.0",
+      "title": "Draft Genome Sequences of Klebsiella Species Isolated from the International Space Station",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7561690/",
+      "year": "",
+      "section": "",
+      "chunk_id": 1.0,
+      "source": "pinecone_abstract",
+      "extraction_date": "2025-10-05T09:32:32.048940"
+    },
+    {
+      "subject": "Klebsiella",
+      "predicate": "inhabits",
+      "object": "Nasopharynx",
+      "confidence": 0.9,
+      "source_text": "The genus Klebsiella was discovered by Carl Friedlander in 1882 from the lungs of patients who had died of pneumonia (1). In infected individuals, Klebsiella species can populate the gastrointestinal ...",
+      "paper_id": "536.0",
+      "title": "Draft Genome Sequences of Klebsiella Species Isolated from the International Space Station",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7561690/",
+      "year": "",
+      "section": "",
+      "chunk_id": 1.0,
+      "source": "pinecone_abstract",
+      "extraction_date": "2025-10-05T09:32:32.048940"
+    },
+    {
+      "subject": "Klebsiella",
+      "predicate": "is_resistant_to",
+      "object": "Antibiotics",
+      "confidence": 0.95,
+      "source_text": "The genus Klebsiella was discovered by Carl Friedlander in 1882 from the lungs of patients who had died of pneumonia (1). In infected individuals, Klebsiella species can populate the gastrointestinal ...",
+      "paper_id": "536.0",
+      "title": "Draft Genome Sequences of Klebsiella Species Isolated from the International Space Station",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7561690/",
+      "year": "",
+      "section": "",
+      "chunk_id": 1.0,
+      "source": "pinecone_abstract",
+      "extraction_date": "2025-10-05T09:32:32.048940"
+    },
+    {
+      "subject": "Microgravity",
+      "predicate": "induces",
+      "object": "Genetic Adaptations",
+      "confidence": 0.9,
+      "source_text": "The genus Klebsiella was discovered by Carl Friedlander in 1882 from the lungs of patients who had died of pneumonia (1). In infected individuals, Klebsiella species can populate the gastrointestinal ...",
+      "paper_id": "536.0",
+      "title": "Draft Genome Sequences of Klebsiella Species Isolated from the International Space Station",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7561690/",
+      "year": "",
+      "section": "",
+      "chunk_id": 1.0,
+      "source": "pinecone_abstract",
+      "extraction_date": "2025-10-05T09:32:32.048940"
+    },
+    {
+      "subject": "Radiation",
+      "predicate": "induces",
+      "object": "Genetic Adaptations",
+      "confidence": 0.9,
+      "source_text": "The genus Klebsiella was discovered by Carl Friedlander in 1882 from the lungs of patients who had died of pneumonia (1). In infected individuals, Klebsiella species can populate the gastrointestinal ...",
+      "paper_id": "536.0",
+      "title": "Draft Genome Sequences of Klebsiella Species Isolated from the International Space Station",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7561690/",
+      "year": "",
+      "section": "",
+      "chunk_id": 1.0,
+      "source": "pinecone_abstract",
+      "extraction_date": "2025-10-05T09:32:32.048940"
+    },
+    {
+      "subject": "Genetic Adaptations",
+      "predicate": "alter",
+      "object": "Virulence",
+      "confidence": 0.9,
+      "source_text": "The genus Klebsiella was discovered by Carl Friedlander in 1882 from the lungs of patients who had died of pneumonia (1). In infected individuals, Klebsiella species can populate the gastrointestinal ...",
+      "paper_id": "536.0",
+      "title": "Draft Genome Sequences of Klebsiella Species Isolated from the International Space Station",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7561690/",
+      "year": "",
+      "section": "",
+      "chunk_id": 1.0,
+      "source": "pinecone_abstract",
+      "extraction_date": "2025-10-05T09:32:32.048940"
+    }
+  ]
+}
